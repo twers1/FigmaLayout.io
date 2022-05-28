@@ -1,0 +1,99 @@
+body {
+    margin: 0 px auto;
+    font-family: Roboto, sans-serif;
+}
+
+h1,
+h3,
+h4 {
+    margin: 0;
+}
+
+.titles {
+    margin-top: 48px;
+    color: #007765;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+}
+
+.main_contanier {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    width: 100%;
+    max-width: 1219px;
+}
+
+.site_header {
+    width: 100%;
+    background-color: #007765;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 21;
+}
+
+.navigation_contanier {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {}
+
+.link {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.section_1 {
+    background-color: url(img/background.png) center no-repeat;
+}
+
+.main_contanier {}
+
+.main_title {}
+
+.section_2 {}
+
+.titles {}
+
+.text_section_2 {}
+
+.span {}
+
+.section_3 {}
+
+.message {}
+
+.section_4 {}
+
+.text_section_4 {}
+
+.section_5 {}
+
+.team {}
+
+.figure {}
+
+.img {}
+
+.foto {}
+
+.name {}
+
+.footer {}
+
+.text_footer {}
+
+.text {}
